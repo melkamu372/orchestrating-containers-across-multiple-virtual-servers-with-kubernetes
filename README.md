@@ -1,8 +1,10 @@
 ## Orchestrating containers across multiple virtual servers with kubernetes
 
-![kubenet-ground-up](https://github.com/user-attachments/assets/69af18cc-364d-4f74-9576-94c547aa744e)
 
-💡 Background: In my previous project, I worked on containerization with Docker, learning how to prepare and deploy containers using Docker Compose. This time, I took things a step further by moving into container orchestration using Kubernetes (K8s)—the industry-standard tool for managing production-scale deployments.
+![containerization](https://github.com/user-attachments/assets/ef78af14-583b-48e2-933f-2b95b88e24fa)
+
+
+💡 Background: In [previous project](https://github.com/melkamu372/Migration-to-the-cloud-with-containerization), I worked on containerization with Docker, learning how to prepare and deploy containers using Docker Compose. This time, I took things a step further by moving into container orchestration using Kubernetes (K8s)—the industry-standard tool for managing production-scale deployments.
 
 🔨 Project Overview:
 
